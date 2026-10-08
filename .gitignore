@@ -1,0 +1,23 @@
+# Target directory
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Environment files
+.env
+.env.local
+*.local
+
+# IDE and Editor files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Logs
+*.log
